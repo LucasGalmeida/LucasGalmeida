@@ -1,8 +1,8 @@
-<h1 align="center"> Hello there! 👋 I'm Lucas Gabriel </h1>
+<h1 align="center"> Meu nome é Lucas!👋  </h1>
 
 
-<h3 align="center"> I'm currently a computer science student at IFMG - Campus Formiga </h3>
-<h3 align="center"> I'm currently studying and learning more about ReactJS and SpringBoot </h3>
+<h3 align="center"> Sou bacharel em Ciências da computação pelo IFMG - Campus Formiga  </h3>
+<h3 align="center"> Sou desenvolvedor web e trabalho atualmente com Angular para o front-end e Java com Spring Boot para o backend </h3>
 
 <hr/>
 <br/>
@@ -12,8 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalmeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-<h3 align="left">Languages and Tools:</h3>
+
+<!--
+<h3 align="left">Linguagens:</h3>
 <p align="left">
 
 ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,22 +29,16 @@
 <h3 align="left">Familiar:</h3>
 <p align="left"></p>
   
-![Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
 ![Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </p>
-
+-->
 <hr>
   
-<h3 align="left">Where to Find Me 🔍</h3><br>
+<h3 align="left">Redes sociais 🔍</h3><br>
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/LucasGalmeida)](https://github.com/LucasGalmeida)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/lucas-gabriel-de-almeida-9253ba22b/)](https://www.linkedin.com/in/lucas-gabriel-de-almeida-9253ba22b/)
